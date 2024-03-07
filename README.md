@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/hugo-chaparro-estrada-3a5bb629" target="_blank">
+ <a href="https://www.linkedin.com/in/hugo-chaparro-estrada-3a5bb6290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hgdv11"/>
  </a>
  <a href="#" target="_blank">
