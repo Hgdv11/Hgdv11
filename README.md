@@ -44,7 +44,7 @@
  
  👋 Hi there, I'm Hugo - welcome to my GitHub!
 
-🎓 I'm currently studying programming and am in 5th semester at Universidad Tecnologica de Chihuahua. 
+🎓 I'm currently studying programming in Universidad Tecnologica de Chihuahua. 
 
 📚 I'm particularly interested in web and app development.
 
